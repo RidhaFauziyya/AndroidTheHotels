@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel6.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel6.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel10.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel10.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel5.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\layout_activity_list_hotel.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\layout\\activity_list_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\layout_activity_detail_hotel.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\layout\\activity_detail_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\layout_list_hotel.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\layout\\list_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_rounded2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\rounded2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel1.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel1.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel8.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel8.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-25:/layout_activity_detail_hotel.xml.flat",
+        "source": "com.example.uts.app-main-27:/layout/activity_detail_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\drawable_hotel7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\drawable\\hotel7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.uts.app-main-27:\\xml\\backup_rules.xml"
+    }
+]
